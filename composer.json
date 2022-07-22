@@ -1,0 +1,12 @@
+{
+    "name": "cherif/blog",
+    "description": "blog pour publier des photos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cherif"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
